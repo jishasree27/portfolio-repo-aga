@@ -36,4 +36,3 @@ const Techstack = () => {
 }
 
 export default Techstack;
-
