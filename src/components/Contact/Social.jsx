@@ -20,7 +20,7 @@ const Social = () => {
                 <ul className="contact-social-links">
                   <li className="contact-icons">
                     <a
-                      href="https://github.com/V-Agalya"
+                      href="https://github.com/jishasree27"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-color  contact-social-icons"
@@ -30,7 +30,7 @@ const Social = () => {
                     </li>
                   <li className="contact-icons">
                     <a
-                      href="https://www.linkedin.com/in/agalya-v-ab6524287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                      href="https://www.linkedin.com/in/jisha-sree-a-173433269/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-color  contact-social-icons"
@@ -46,3 +46,5 @@ const Social = () => {
 }
 
 export default Social
+
+                 
