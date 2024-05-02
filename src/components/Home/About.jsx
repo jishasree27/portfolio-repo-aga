@@ -21,27 +21,33 @@ const About = () => {
                   LET ME <span className="yellow"> INTRODUCE </span> MYSELF
                 </h1>
                 <p className="home-about-body">
-                 Hi, my name is <span className="yellow">Agalya V </span>
-                 and I'm from <span className="yellow"> Thanjavur,Tamil Nadu.</span>
+                 Hi, my name is <span className="yellow">Jisha Sree A </span>
+                 and I'm from <span className="yellow"> Coimbatore,Tamil Nadu.</span>
                 <br />
                 <br />
                 I am currently pursuing Bachelors Degree in the stream of Electronics and Communication Engineering.
                 <br />
                 <br />
                   As a
-                  <b className="yellow"> DevOps </b>Engineer,  
-                  I enjoy tackling new challenges and continuously expanding my skillset.
+                  <b className="yellow">Software</b>Engineer,  
+                  I'm passionate about confronting new challenges head-on and consistently enhancing my skillset
                   <br />
                   <br />I am proficient in
-                    <b className="yellow"> Python, </b>
-                    as well as have knowledge in programming languages such as Java, HTML,CSS,JavaScript.
+                    <b className="yellow"> Full stack developement with cloud-DevOps, </b>
+                    as well as have knowledge in programming languages such as Java,Python and well known front-end-languages.
                   <br />
                   <br />
                   I have a passion for working
-                  with <b className="yellow">AWS tools</b>
+                  with <b className="yellow">cloud-AWS tools</b>
                   &nbsp; like
                   <i>
-                    <b className="yellow"> Jenkins,Docker Hub,Github actions.</b>
+                    <b className="yellow"> Kubernetes,Jenkins,Docker Hub,Github actions.</b>
+                  </i>
+                  I have trained in for working
+                  with <b className="yellow">cloud-AWS services</b>
+                  &nbsp; like
+                  <i>
+                    <b className="yellow">IAM,EC2,s3,Lambda,Dynamo db,Terraform</b>
                   </i>
                   <br />
                   <br />
@@ -62,7 +68,7 @@ const About = () => {
                 <ul className="home-about-social-links">
                   <li className="social-icons">
                     <a
-                      href="https://github.com/V-Agalya"
+                      href="https://github.com/jishasree27"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -73,7 +79,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://www.linkedin.com/in/agalya-v-ab6524287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                      href="https://www.linkedin.com/in/jisha-sree-a-173433269/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
