@@ -90,7 +90,7 @@ function NavBar() {
 
             {/* <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/V-Agalya"
+                href="https://github.com/jishasree27"
                 target="_blank"
                 className="fork-btn-inner"
               >
@@ -106,3 +106,4 @@ function NavBar() {
 }
 
 export default NavBar;
+
