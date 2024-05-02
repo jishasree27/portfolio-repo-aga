@@ -6,7 +6,7 @@ const Type = () => {
         <Typewriter
           options={{
             strings: [
-              "Software Developer",
+              "FullStack Developer",
               "Passionate DevOps Engineer",
               "Effective Problem Solver"
             ],
