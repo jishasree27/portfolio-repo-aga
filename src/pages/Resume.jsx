@@ -10,9 +10,9 @@ import { Document, Page, pdfjs } from "react-pdf";
 
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 import "react-pdf/dist/esm/Page/TextLayer.css";
-pdfjs.GlobalWorkerOptions.workerSrc = `https://1drv.ms/b/s!Ah40OGFGhTmLgSZHyJ8-K5Fnwchu?e=2YGs0s`;
+pdfjs.GlobalWorkerOptions.workerSrc = `https://drive.google.com/file/d/1NwdqaJq7EYxFJUrwYxyOJ6Arnu-vr2ST/view?usp=drivesdk`;
 
-const resumeLink = `https://1drv.ms/b/s!Ah40OGFGhTmLgSZHyJ8-K5Fnwchu?e=2YGs0s`
+const resumeLink = `https://drive.google.com/file/d/1NwdqaJq7EYxFJUrwYxyOJ6Arnu-vr2ST/view?usp=drivesdk`
 
 
 const Resume = () => {
